@@ -16,7 +16,4 @@ Descobri que prefiro matar um leão por dia a ficar no sossego fazendo a mesma c
 
 25 anos · SP
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DNLGS&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DNLGS&layout=compact&theme=default&hide_border=true" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=DNLGS&hide_border=true)

@@ -16,4 +16,5 @@ Descobri que prefiro matar um leão por dia a ficar no sossego fazendo a mesma c
 
 25 anos · SP
 
+email: daniloaparecidogomes@gmail.com
 ![GitHub Streak](https://streak-stats.demolab.com?user=DNLGS&hide_border=true)

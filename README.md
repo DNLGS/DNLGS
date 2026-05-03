@@ -1,5 +1,5 @@
-## Olá, eu sou o Danilo (Donds pros intimos) 😎
-Programador · Resolvedor de problemas · 4º semestre de ADS
+## Olá, eu sou o Danilo 😎
+Programador
 
 ---
 
@@ -10,7 +10,8 @@ Descobri que prefiro matar um leão por dia a ficar no sossego fazendo a mesma c
 **Stack atual**
 `Delphi` `PHP` `Python` `Node.js` `SQL` `Firebird` `+ o que vier`
 
-"Não preciso de solução, preciso de contexto."
+"Se eu tivesse uma hora para resolver um problema, passaria 55 minutos pensando sobre o problema e cinco minutos pensando sobre a solução."
+— Albert Einstein
 
 ---
 

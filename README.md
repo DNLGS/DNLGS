@@ -3,7 +3,7 @@ Programador
 
 ---
 
-Trabalho principalmente com **Delphi**, mas acredito que linguagem é ferramenta — não identidade. Se o problema exige algo que eu ainda não sei, eu aprendo e resolvo.
+Trabalho principalmente com **Delphi**, mas acredito que linguagem é ferramenta não identidade. Se o problema exige algo que eu ainda não sei, eu aprendo e resolvo.
 
 Descobri que prefiro matar um leão por dia a ficar no sossego fazendo a mesma coisa. Curioso por natureza, movido por desafio.
 

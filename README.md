@@ -29,6 +29,7 @@ Desde 2022 trabalhando com desenvolvimento e manutenção de sistemas.
 
 ## Atualmente estudando
 
+- Organizando e versionando projetos com **Git** — hábito recente, em construção
 - `C` — voltando ao básico de propósito
 - `WinAPI` — entendendo o que acontece embaixo do Delphi
 - `OpenGL` — porque gráficos são um problema diferente
